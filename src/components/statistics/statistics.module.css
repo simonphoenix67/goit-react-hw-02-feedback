@@ -1,0 +1,25 @@
+.mainCounter {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  font-weight: 600;
+}
+
+.feedback {
+  font-size: 40px;
+  margin: 10px;
+}
+
+.buttonFeedback {
+  width: 100px;
+  margin: 10px;
+}
+
+.statisticsHeader {
+  font-size: 40px;
+  margin: 10px;
+}
+
+.statisticsCounter {
+  margin: 10px;
+}
