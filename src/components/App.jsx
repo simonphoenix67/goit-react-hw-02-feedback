@@ -1,4 +1,5 @@
 import { FeedbackWidget } from './statistics/statistics';
+// import FeedbackStatistics from './counter/counter';
 
 export const App = () => {
   return (
@@ -12,7 +13,8 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      <FeedbackWidget/>
+      <FeedbackWidget />
+      {/* <FeedbackStatistics good={good} neutral={neutral} bad={bad} /> */}
     </div>
   );
 };
