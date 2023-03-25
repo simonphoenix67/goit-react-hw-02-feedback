@@ -62,5 +62,3 @@ export class FeedbackWidget extends Component {
 
 }
 
-
-// export default FeedbackWidget;
